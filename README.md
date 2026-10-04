@@ -5,7 +5,7 @@
 
 ![Project photo or demo GIF](docs/demo.gif)
 
-**Hackathon:** Claude SuperHuman ImpactLab · **Date:** October 2025 · **Team:** Hugo
+**Hackathon:** Claude SuperHuman ImpactLab · **Date:** October 2026 · **Team:** Hugo
 
 ---
 
